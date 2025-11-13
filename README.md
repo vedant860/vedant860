@@ -15,6 +15,15 @@
 - 🧠 Skilled in turning raw data into meaningful insights  
 - 🌱 Currently exploring Machine Learning and AI  
 - 👯 I want to contribute to data-driven projects that create real-world impact  
+- 📫 Reach me: **vedantc359@gmail.com**
+
+---
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/vedant-chavan-7868a7387" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
@@ -28,9 +37,9 @@
 
 ### Frameworks & Libraries
 
-| Pandas | NumPy | Matplotlib | Scikit-learn |
+| Pandas | NumPy | Matplotlib | Seaborn |
 |:--:|:--:|:--:|:--:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60"/> |
 
 ---
 
