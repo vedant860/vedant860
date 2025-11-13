@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vedant860/vedant860/blob/main/banner.png?raw=true" width="750"
+  <img src="https://github.com/vedant860/vedant860/blob/main/banner.jpg?raw=true" width="750"
   height="200" alt="VEDANT CHAVAN - Data Scientist / Data Analyst" />
 </p>
 
